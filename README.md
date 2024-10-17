@@ -11,6 +11,7 @@ A Java-based recreation of the popular game *Flappy Bird*, developed as a solo a
 - Classic Flappy Bird gameplay
 - Simple, intuitive controls
 - Obstacle generation with increasing difficulty
+- Score tracking based on how far the player progresses
 - Collision detection to determine game over
 
 ## Tech Stack
