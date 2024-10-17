@@ -21,21 +21,31 @@ A Java-based recreation of the popular game *Flappy Bird*, developed as a solo a
 
 ## Installation
 
-To run the project, follow these steps:
+To run the project, you have two options:
+
+### Option 1: Running the JAR File
+
+1. Download the precompiled JAR file from the [releases](https://github.com/Aman-Bollam/FlappyBird/releases) section.
+2. Run the JAR file using the following command:
+```bash
+java -jar FlappyBird.jar
+```
+
+### Option 2: Compiling from Source
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Aman-Bollam/FlappyBird.git
-   ```
+```bash
+git clone https://github.com/Aman-Bollam/FlappyBird.git
+```
 2. Navigate to the project directory:
-   ```bash
-   cd FlappyBird
-   ```
+```bash
+cd FlappyBird
+```
 3. Compile and run the game:
-   ```bash
-   javac src/*.java
-   java src.Main
-   ```
+```bash
+javac src/*.java
+java src.Main
+```
 
 ## How to Play
 
